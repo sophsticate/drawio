@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T02:58:06.567Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="SGt2S-ns-wAhc1Ea21Fu" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-04T03:05:35.400Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="oAcAkFZtxPar21WdSwsr" version="14.2.9" type="github">
   <diagram id="dQ64dTJpSwuxe_10a8iy" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="465" y="240" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LmF3rIa6Q9fgNrGSryBG-19" value="Dash方案实验局" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="370" width="100" height="20" as="geometry" />
+          <mxGeometry x="30" y="385" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LmF3rIa6Q9fgNrGSryBG-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LmF3rIa6Q9fgNrGSryBG-20" target="LmF3rIa6Q9fgNrGSryBG-21">
           <mxGeometry relative="1" as="geometry" />
@@ -61,8 +61,32 @@
         <mxCell id="LmF3rIa6Q9fgNrGSryBG-24" value="&lt;span&gt;直接使用dash&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="234" y="680" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LmF3rIa6Q9fgNrGSryBG-25" value="&lt;span&gt;对dash使用易用性封装&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="LmF3rIa6Q9fgNrGSryBG-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LmF3rIa6Q9fgNrGSryBG-25" target="LmF3rIa6Q9fgNrGSryBG-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LmF3rIa6Q9fgNrGSryBG-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LmF3rIa6Q9fgNrGSryBG-25" target="LmF3rIa6Q9fgNrGSryBG-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LmF3rIa6Q9fgNrGSryBG-25" value="&lt;span&gt;对dash使用易用性封装&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="680" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LmF3rIa6Q9fgNrGSryBG-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LmF3rIa6Q9fgNrGSryBG-35" target="LmF3rIa6Q9fgNrGSryBG-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LmF3rIa6Q9fgNrGSryBG-35" value="设计并制定开发计划" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="800" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LmF3rIa6Q9fgNrGSryBG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LmF3rIa6Q9fgNrGSryBG-36" target="LmF3rIa6Q9fgNrGSryBG-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LmF3rIa6Q9fgNrGSryBG-36" value="探索测试用例" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="800" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LmF3rIa6Q9fgNrGSryBG-37" value="分享培训，上线" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="920" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LmF3rIa6Q9fgNrGSryBG-42" value="营销展示方案探索" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
