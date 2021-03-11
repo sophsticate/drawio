@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T02:37:24.954Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="JyNSqE15b-Hy03tlUKTC" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T02:50:42.816Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="Is3nXHBATymuhzrbR-x6" version="14.4.4" type="github">
   <diagram id="DE31-v8V938ssdHPBStD" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="zbbZSZ4e6hjsE-GL7crY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zbbZSZ4e6hjsE-GL7crY-5" target="zbbZSZ4e6hjsE-GL7crY-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zbbZSZ4e6hjsE-GL7crY-5" value="调整阈值，多次训练" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zbbZSZ4e6hjsE-GL7crY-5" value="调整阈值，训练" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zbbZSZ4e6hjsE-GL7crY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zbbZSZ4e6hjsE-GL7crY-6" target="zbbZSZ4e6hjsE-GL7crY-5">
@@ -55,7 +55,7 @@
           <mxGeometry x="10" y="490" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zbbZSZ4e6hjsE-GL7crY-10" value="NLP质检V1.1版本发布" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry y="810" width="140" height="20" as="geometry" />
+          <mxGeometry x="10" y="930" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zbbZSZ4e6hjsE-GL7crY-12" value="&lt;br&gt;&lt;span&gt;1、数据统计描述2、异常值处理&lt;/span&gt;&lt;br&gt;&lt;span&gt;3、缺失值处理&lt;/span&gt;&lt;br&gt;&lt;span&gt;4、标签处理&lt;/span&gt;&lt;br&gt;&lt;span&gt;5、生成训练和测试数据&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="155" y="210" width="90" height="110" as="geometry" />
@@ -80,6 +80,75 @@
         </mxCell>
         <mxCell id="zbbZSZ4e6hjsE-GL7crY-26" value="交付建模文档" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zbbZSZ4e6hjsE-GL7crY-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zbbZSZ4e6hjsE-GL7crY-28" target="zbbZSZ4e6hjsE-GL7crY-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zbbZSZ4e6hjsE-GL7crY-28" value="功能点开发" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="565" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zbbZSZ4e6hjsE-GL7crY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zbbZSZ4e6hjsE-GL7crY-31" target="zbbZSZ4e6hjsE-GL7crY-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zbbZSZ4e6hjsE-GL7crY-31" value="接口开发" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="565" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zbbZSZ4e6hjsE-GL7crY-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zbbZSZ4e6hjsE-GL7crY-32" target="zbbZSZ4e6hjsE-GL7crY-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zbbZSZ4e6hjsE-GL7crY-32" value="使用脚本开发和文档编写" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="565" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zbbZSZ4e6hjsE-GL7crY-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zbbZSZ4e6hjsE-GL7crY-33" target="zbbZSZ4e6hjsE-GL7crY-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zbbZSZ4e6hjsE-GL7crY-33" value="更新CDSS sop流程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="565" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zbbZSZ4e6hjsE-GL7crY-34" value="组织相关人员对齐" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="565" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zbbZSZ4e6hjsE-GL7crY-36" value="1、&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;verdana&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 221)&quot;&gt;配置表填写问题，导致特征工程运行报错&lt;br&gt;2、&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;verdana&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 221)&quot;&gt;hdr不符合特征工程需求，导致特征工程运行报错&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;verdana&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 221)&quot;&gt;3、&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;verdana&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 221)&quot;&gt;hdr符合特征需求，特征工程运行不报错，但是特征运行出来不存在&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;verdana&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 221)&quot;&gt;4、预训练（数据检测、变量选定）&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="620" width="125" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zbbZSZ4e6hjsE-GL7crY-37" value="将功能点做成接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="620" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zbbZSZ4e6hjsE-GL7crY-42" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="820" as="sourcePoint" />
+            <mxPoint x="190" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zbbZSZ4e6hjsE-GL7crY-43" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="810" as="sourcePoint" />
+            <mxPoint x="350" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zbbZSZ4e6hjsE-GL7crY-44" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="810" as="sourcePoint" />
+            <mxPoint x="500" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zbbZSZ4e6hjsE-GL7crY-45" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="664.5" y="810" as="sourcePoint" />
+            <mxPoint x="664.5" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zbbZSZ4e6hjsE-GL7crY-46" value="2021-3-19" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="830" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zbbZSZ4e6hjsE-GL7crY-47" value="2021-3-26" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="830" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zbbZSZ4e6hjsE-GL7crY-48" value="2021-3-31" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="830" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zbbZSZ4e6hjsE-GL7crY-49" value="2021-4-9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="830" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
