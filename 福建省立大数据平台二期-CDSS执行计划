@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T07:07:51.731Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="vfDht43yeF-07_IxBPFo" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T07:14:01.556Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="kzYjM3LCq8VK-SekY144" version="14.5.1" type="github">
   <diagram id="6Suen5Ab-P_Ysg67XgPW" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,9 +48,6 @@
         </mxCell>
         <mxCell id="UTewXcSy_pChHCTO2IDC-27" value="建模文档" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-19">
           <mxGeometry x="400" y="100" width="60" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="UTewXcSy_pChHCTO2IDC-31" value="部署服务" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-19">
-          <mxGeometry x="555.5" y="65" width="89" height="35" as="geometry" />
         </mxCell>
         <mxCell id="UTewXcSy_pChHCTO2IDC-20" value="AI" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="585" width="719" height="190" as="geometry">
@@ -126,14 +123,13 @@
         <mxCell id="UTewXcSy_pChHCTO2IDC-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="1" source="UTewXcSy_pChHCTO2IDC-28" target="UTewXcSy_pChHCTO2IDC-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UTewXcSy_pChHCTO2IDC-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="1" source="UTewXcSy_pChHCTO2IDC-29" target="UTewXcSy_pChHCTO2IDC-31">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UTewXcSy_pChHCTO2IDC-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UTewXcSy_pChHCTO2IDC-29" target="UTewXcSy_pChHCTO2IDC-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1270" y="840" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UTewXcSy_pChHCTO2IDC-48" value="&lt;span style=&quot;font-size: 21px&quot;&gt;启动建模任务计划时间：2021-5-9，建模任务计划完成时间：&lt;/span&gt;&lt;span style=&quot;font-size: 21px&quot;&gt;2021-6-1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="660" y="360" width="670" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="UTewXcSy_pChHCTO2IDC-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=6;" edge="1" parent="1" source="UTewXcSy_pChHCTO2IDC-31" target="UTewXcSy_pChHCTO2IDC-52">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
