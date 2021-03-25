@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T08:35:10.693Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="csbO-YgyKF8TdhJYZMXY" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T02:24:18.768Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="uk-0jMXqAM5HF6QkfIkA" version="14.5.1" type="github">
   <diagram id="6Suen5Ab-P_Ysg67XgPW" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,10 +27,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTewXcSy_pChHCTO2IDC-32" value="DSL开发测试" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-1">
-          <mxGeometry x="491" y="75" width="80" height="32.5" as="geometry" />
+          <mxGeometry x="471" y="71.25" width="80" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="UTewXcSy_pChHCTO2IDC-52" value="联调" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-1">
-          <mxGeometry x="620" y="78.75" width="50" height="25" as="geometry" />
+          <mxGeometry x="620" y="75" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="UTewXcSy_pChHCTO2IDC-19" value="实施" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="669" y="820" width="719" height="190" as="geometry">
@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTewXcSy_pChHCTO2IDC-25" value="部署建模系统" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-19">
-          <mxGeometry x="75.5" y="60" width="83" height="35" as="geometry" />
+          <mxGeometry x="111" y="60" width="83" height="35" as="geometry" />
         </mxCell>
         <mxCell id="UTewXcSy_pChHCTO2IDC-26" value="执行建模任务" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-19">
           <mxGeometry x="347" y="60" width="83" height="35" as="geometry" />
@@ -54,49 +54,67 @@
             <mxRectangle x="20" width="580" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UTewXcSy_pChHCTO2IDC-24" value="开发建模系统" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-20">
-          <mxGeometry x="75.5" y="56.25" width="83" height="35" as="geometry" />
+        <mxCell id="UTewXcSy_pChHCTO2IDC-24" value="升级建模系统" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-20">
+          <mxGeometry x="111" y="56.25" width="83" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="UTewXcSy_pChHCTO2IDC-29" value="开发线上接口" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-20">
-          <mxGeometry x="560" y="45" width="80" height="37.5" as="geometry" />
+        <mxCell id="UTewXcSy_pChHCTO2IDC-29" value="开发服务包" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-20">
+          <mxGeometry x="532" y="50" width="80" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="UTewXcSy_pChHCTO2IDC-30" value="模型服务部署包" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-20">
-          <mxGeometry x="610" y="91.25" width="90" height="25" as="geometry" />
+          <mxGeometry x="581" y="91.25" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="UTewXcSy_pChHCTO2IDC-35" value="CDSS建模服务包" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-20">
-          <mxGeometry x="130" y="95" width="100" height="25" as="geometry" />
+          <mxGeometry x="158" y="100" width="100" height="25" as="geometry" />
         </mxCell>
         <mxCell id="UTewXcSy_pChHCTO2IDC-21" value="CDSS" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="440" width="719" height="190" as="geometry">
+          <mxGeometry x="669" y="440" width="719" height="190" as="geometry">
             <mxRectangle x="20" width="580" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UTewXcSy_pChHCTO2IDC-22" value="数据调研" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-21">
-          <mxGeometry x="19" y="45" width="61" height="35" as="geometry" />
+        <mxCell id="UTewXcSy_pChHCTO2IDC-22" value="准备数据" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-21">
+          <mxGeometry x="31" y="25" width="61" height="35" as="geometry" />
         </mxCell>
         <mxCell id="UTewXcSy_pChHCTO2IDC-23" value="冠心病数据&lt;br&gt;房颤数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-21">
-          <mxGeometry x="89" y="75" width="63" height="30" as="geometry" />
+          <mxGeometry x="71" y="90" width="63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UTewXcSy_pChHCTO2IDC-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="UTewXcSy_pChHCTO2IDC-21" source="UTewXcSy_pChHCTO2IDC-28" target="UTewXcSy_pChHCTO2IDC-68">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTewXcSy_pChHCTO2IDC-28" value="&lt;font style=&quot;font-size: 10px&quot;&gt;是否达到&lt;br style=&quot;font-size: 10px&quot;&gt;交付要求&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-21">
-          <mxGeometry x="353.5" y="30" width="70" height="65" as="geometry" />
+          <mxGeometry x="353.5" y="10" width="70" height="65" as="geometry" />
         </mxCell>
         <mxCell id="UTewXcSy_pChHCTO2IDC-40" value="调整建模任务" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-21">
-          <mxGeometry x="240" y="110" width="80" height="35" as="geometry" />
+          <mxGeometry x="251" y="140" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="UTewXcSy_pChHCTO2IDC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="UTewXcSy_pChHCTO2IDC-21" source="UTewXcSy_pChHCTO2IDC-28" target="UTewXcSy_pChHCTO2IDC-40">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="78" as="targetPoint" />
+        <mxCell id="UTewXcSy_pChHCTO2IDC-71" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="UTewXcSy_pChHCTO2IDC-21" source="UTewXcSy_pChHCTO2IDC-68" target="UTewXcSy_pChHCTO2IDC-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTewXcSy_pChHCTO2IDC-68" value="&lt;font style=&quot;font-size: 10px&quot;&gt;是否需要调整数据&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-21">
+          <mxGeometry x="181" y="10" width="70" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="UTewXcSy_pChHCTO2IDC-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="UTewXcSy_pChHCTO2IDC-21" source="UTewXcSy_pChHCTO2IDC-72" target="UTewXcSy_pChHCTO2IDC-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTewXcSy_pChHCTO2IDC-77" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=6;" vertex="1" connectable="0" parent="UTewXcSy_pChHCTO2IDC-76">
+          <mxGeometry x="-0.303" y="3" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UTewXcSy_pChHCTO2IDC-43" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=6;" vertex="1" connectable="0" parent="UTewXcSy_pChHCTO2IDC-39">
+        <mxCell id="UTewXcSy_pChHCTO2IDC-72" value="&lt;font style=&quot;font-size: 10px&quot;&gt;是否需要调整建模&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-21">
+          <mxGeometry x="231" y="70" width="119" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UTewXcSy_pChHCTO2IDC-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="UTewXcSy_pChHCTO2IDC-21" source="UTewXcSy_pChHCTO2IDC-28" target="UTewXcSy_pChHCTO2IDC-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="949" y="560" as="targetPoint" />
+            <mxPoint x="1022.5" y="482.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UTewXcSy_pChHCTO2IDC-74" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=6;" vertex="1" connectable="0" parent="UTewXcSy_pChHCTO2IDC-73">
           <mxGeometry x="-0.2645" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UTewXcSy_pChHCTO2IDC-41" value="数据调整/建模配置修改等" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-21">
-          <mxGeometry x="300" y="145" width="80" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="UTewXcSy_pChHCTO2IDC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=6;" edge="1" parent="1" source="UTewXcSy_pChHCTO2IDC-22" target="UTewXcSy_pChHCTO2IDC-24">
+        <mxCell id="UTewXcSy_pChHCTO2IDC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=6;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UTewXcSy_pChHCTO2IDC-22" target="UTewXcSy_pChHCTO2IDC-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTewXcSy_pChHCTO2IDC-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=6;" edge="1" parent="1" source="UTewXcSy_pChHCTO2IDC-24" target="UTewXcSy_pChHCTO2IDC-25">
@@ -104,13 +122,6 @@
         </mxCell>
         <mxCell id="UTewXcSy_pChHCTO2IDC-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=6;" edge="1" parent="1" source="UTewXcSy_pChHCTO2IDC-26" target="UTewXcSy_pChHCTO2IDC-28">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UTewXcSy_pChHCTO2IDC-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=6;" edge="1" parent="1" source="UTewXcSy_pChHCTO2IDC-40" target="UTewXcSy_pChHCTO2IDC-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="949" y="898" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="UTewXcSy_pChHCTO2IDC-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="1" source="UTewXcSy_pChHCTO2IDC-28" target="UTewXcSy_pChHCTO2IDC-29">
           <mxGeometry relative="1" as="geometry" />
@@ -122,6 +133,23 @@
           <mxGeometry x="669" y="1010" width="719" height="135" as="geometry">
             <mxRectangle x="20" width="580" height="20" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UTewXcSy_pChHCTO2IDC-67" value="压测" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UTewXcSy_pChHCTO2IDC-59">
+          <mxGeometry x="532" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UTewXcSy_pChHCTO2IDC-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UTewXcSy_pChHCTO2IDC-40" target="UTewXcSy_pChHCTO2IDC-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UTewXcSy_pChHCTO2IDC-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="1" source="UTewXcSy_pChHCTO2IDC-29" target="UTewXcSy_pChHCTO2IDC-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTewXcSy_pChHCTO2IDC-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="1" source="UTewXcSy_pChHCTO2IDC-28" target="UTewXcSy_pChHCTO2IDC-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTewXcSy_pChHCTO2IDC-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="1" source="UTewXcSy_pChHCTO2IDC-67" target="UTewXcSy_pChHCTO2IDC-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
