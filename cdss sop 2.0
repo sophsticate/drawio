@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T11:33:55.948Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="j94XhI6Q7ejmyoNRcSY4" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T11:37:23.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="kP3TN-YtFx7rMMVEhcUR" version="14.6.13" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2505" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,10 +120,16 @@
             <mxPoint x="700" y="-50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HE5Jo0_JaR8jmIWFMW8z-25" value="执行HDR的数据质控" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="xtH-NBnRluMcCyskS5VJ-3">
-          <mxGeometry x="510" y="12" width="110" height="41" as="geometry" />
+        <mxCell id="HE5Jo0_JaR8jmIWFMW8z-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xtH-NBnRluMcCyskS5VJ-3" source="HE5Jo0_JaR8jmIWFMW8z-25" target="xtH-NBnRluMcCyskS5VJ-185">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xtH-NBnRluMcCyskS5VJ-25" value="医学数据部" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="HE5Jo0_JaR8jmIWFMW8z-25" value="执行HDR的数据质控" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xtH-NBnRluMcCyskS5VJ-3">
+          <mxGeometry x="500" y="34.5" width="110" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="HE5Jo0_JaR8jmIWFMW8z-44" value="HDR质控结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="xtH-NBnRluMcCyskS5VJ-3">
+          <mxGeometry x="570" y="76.5" width="80" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="xtH-NBnRluMcCyskS5VJ-25" value="医学数据部" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-10" y="579" width="1660" height="121" as="geometry">
             <mxRectangle x="20" width="580" height="20" as="alternateBounds" />
           </mxGeometry>
@@ -137,7 +143,7 @@
         <mxCell id="xtH-NBnRluMcCyskS5VJ-191" value="11、变量质控" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xtH-NBnRluMcCyskS5VJ-25" vertex="1">
           <mxGeometry x="890" y="21" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xtH-NBnRluMcCyskS5VJ-192" value="变量质控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="xtH-NBnRluMcCyskS5VJ-25" vertex="1">
+        <mxCell id="xtH-NBnRluMcCyskS5VJ-192" value="变量质控方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="xtH-NBnRluMcCyskS5VJ-25" vertex="1">
           <mxGeometry x="970" y="51" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xtH-NBnRluMcCyskS5VJ-242" value="17、DSL变量定义" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xtH-NBnRluMcCyskS5VJ-25" vertex="1">
@@ -152,8 +158,17 @@
         <mxCell id="HE5Jo0_JaR8jmIWFMW8z-19" value="标注规则" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="xtH-NBnRluMcCyskS5VJ-25">
           <mxGeometry x="320" y="61" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HE5Jo0_JaR8jmIWFMW8z-22" value="HDR的数据质控" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="xtH-NBnRluMcCyskS5VJ-25">
-          <mxGeometry x="470" y="21.5" width="90" height="28.5" as="geometry" />
+        <mxCell id="HE5Jo0_JaR8jmIWFMW8z-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xtH-NBnRluMcCyskS5VJ-25" source="HE5Jo0_JaR8jmIWFMW8z-22" target="xtH-NBnRluMcCyskS5VJ-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HE5Jo0_JaR8jmIWFMW8z-22" value="HDR的数据质控" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xtH-NBnRluMcCyskS5VJ-25">
+          <mxGeometry x="510" y="22.5" width="90" height="28.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HE5Jo0_JaR8jmIWFMW8z-40" value="检测结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="xtH-NBnRluMcCyskS5VJ-25">
+          <mxGeometry x="810" y="53.75" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HE5Jo0_JaR8jmIWFMW8z-43" value="HDR质控方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="xtH-NBnRluMcCyskS5VJ-25">
+          <mxGeometry x="470" y="51" width="80" height="19" as="geometry" />
         </mxCell>
         <mxCell id="xtH-NBnRluMcCyskS5VJ-28" value="机器学习" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="-10" y="459" width="1660" height="120" as="geometry">
@@ -283,14 +298,6 @@
         <mxCell id="HE5Jo0_JaR8jmIWFMW8z-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HE5Jo0_JaR8jmIWFMW8z-17" target="xtH-NBnRluMcCyskS5VJ-179">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HE5Jo0_JaR8jmIWFMW8z-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HE5Jo0_JaR8jmIWFMW8z-22" target="HE5Jo0_JaR8jmIWFMW8z-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="505" y="730" />
-              <mxPoint x="510" y="730" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HE5Jo0_JaR8jmIWFMW8z-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VktOh7FyeuRvWndN_d_n-7" target="xtH-NBnRluMcCyskS5VJ-198">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1570" y="820" as="targetPoint" />
@@ -308,6 +315,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HE5Jo0_JaR8jmIWFMW8z-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HE5Jo0_JaR8jmIWFMW8z-34" target="xtH-NBnRluMcCyskS5VJ-185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HE5Jo0_JaR8jmIWFMW8z-34" value="特征配置表检测" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="740" y="600" width="110" height="30" as="geometry" />
         </mxCell>
@@ -316,6 +326,9 @@
             <mxPoint x="760" y="730" as="sourcePoint" />
             <mxPoint x="880" y="615" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HE5Jo0_JaR8jmIWFMW8z-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HE5Jo0_JaR8jmIWFMW8z-22" target="HE5Jo0_JaR8jmIWFMW8z-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
