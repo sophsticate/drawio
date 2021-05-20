@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T11:39:09.560Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="AQX2WWpJglmRh_DTGTZW" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T11:41:50.345Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="EoV-aURbqaQax8gIwHFp" version="14.6.13" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2505" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,8 +152,11 @@
         <mxCell id="VktOh7FyeuRvWndN_d_n-10" value="DSL变量定义文档" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="xtH-NBnRluMcCyskS5VJ-25" vertex="1">
           <mxGeometry x="1310" y="56.5" width="60" height="24.5" as="geometry" />
         </mxCell>
+        <mxCell id="HE5Jo0_JaR8jmIWFMW8z-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xtH-NBnRluMcCyskS5VJ-25" source="HE5Jo0_JaR8jmIWFMW8z-17" target="HE5Jo0_JaR8jmIWFMW8z-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HE5Jo0_JaR8jmIWFMW8z-17" value="6、制定样本标注规则" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xtH-NBnRluMcCyskS5VJ-25">
-          <mxGeometry x="246.75" y="26.5" width="125.5" height="34.5" as="geometry" />
+          <mxGeometry x="248.38" y="20.5" width="122.25" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="HE5Jo0_JaR8jmIWFMW8z-19" value="标注规则" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="xtH-NBnRluMcCyskS5VJ-25">
           <mxGeometry x="320" y="61" width="80" height="30" as="geometry" />
@@ -236,8 +239,11 @@
         <mxCell id="xtH-NBnRluMcCyskS5VJ-230" value="接口测试报告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="xtH-NBnRluMcCyskS5VJ-177" vertex="1">
           <mxGeometry x="1470" y="60" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="HE5Jo0_JaR8jmIWFMW8z-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xtH-NBnRluMcCyskS5VJ-177" source="xtH-NBnRluMcCyskS5VJ-245" target="xtH-NBnRluMcCyskS5VJ-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xtH-NBnRluMcCyskS5VJ-245" value="19、dsl测试" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xtH-NBnRluMcCyskS5VJ-177" vertex="1">
-          <mxGeometry x="1260" y="30" width="80" height="30" as="geometry" />
+          <mxGeometry x="1260" y="28.75" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VktOh7FyeuRvWndN_d_n-5" value="dsl测试报告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="xtH-NBnRluMcCyskS5VJ-177" vertex="1">
           <mxGeometry x="1270" y="60" width="70" height="20" as="geometry" />
