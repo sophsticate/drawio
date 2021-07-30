@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-29T07:29:41.805Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="JcvGpPVSvxAxOVBs8S-H" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-30T04:09:54.446Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="4nBnoGpIioh6QwYs0_v5" version="14.9.0" type="github">
   <diagram id="1MroKMS75yooX2-UUijn" name="Page-1">
     <mxGraphModel dx="2253" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="k2YP_tW7FPzxwD-LAJ22-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k2YP_tW7FPzxwD-LAJ22-2" target="k2YP_tW7FPzxwD-LAJ22-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k2YP_tW7FPzxwD-LAJ22-2" value="福建省立acs建模问题复盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-2" value="福建省立acs建模复盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k2YP_tW7FPzxwD-LAJ22-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="k2YP_tW7FPzxwD-LAJ22-4" target="k2YP_tW7FPzxwD-LAJ22-7">
@@ -42,6 +42,183 @@
         </mxCell>
         <mxCell id="k2YP_tW7FPzxwD-LAJ22-19" value="难度较大&lt;br&gt;且交付压力大，&lt;br&gt;优先级最后" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="310" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-25" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="1020" as="sourcePoint" />
+            <mxPoint x="640" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-26" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1040" as="sourcePoint" />
+            <mxPoint x="400" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-27" value="caprini评分点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1040" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-28" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="1040" as="sourcePoint" />
+            <mxPoint x="460" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-29" value="入院24h" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="980" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;rotation=89;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1019.48" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-31" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="1040" as="sourcePoint" />
+            <mxPoint x="340" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-33" value="入院时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="990" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-34" value="visit_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="1010" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-35" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="1040" as="sourcePoint" />
+            <mxPoint x="570" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-37" value="检查时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1040" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-38" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;rotation=89;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="1024.07" width="20" height="169" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-39" value="7d" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="469.5" y="1119.48" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-53" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="1270" as="sourcePoint" />
+            <mxPoint x="670" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-54" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="1285" as="sourcePoint" />
+            <mxPoint x="414" y="1255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-55" value="caprini评分点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1290" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-56" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="1290" as="sourcePoint" />
+            <mxPoint x="490" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-58" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;rotation=89;" vertex="1" parent="1">
+          <mxGeometry x="442.22" y="1283.2" width="20" height="74.56" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-59" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="1290" as="sourcePoint" />
+            <mxPoint x="370" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-61" value="visit_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="685" y="1260" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-62" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="1290" as="sourcePoint" />
+            <mxPoint x="600" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-63" value="检查时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1290" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-66" value="手术开始时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1230" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-70" value="1天" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1330" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-71" value="检查时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1240" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-72" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1099" width="20" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-73" value="-2天~7天" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1180" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-74" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="1528.76" as="sourcePoint" />
+            <mxPoint x="610" y="1529" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-75" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1543.76" as="sourcePoint" />
+            <mxPoint x="400" y="1513.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-76" value="caprini评分点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="1548.76" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-77" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="1548.76" as="sourcePoint" />
+            <mxPoint x="490" y="1518.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-78" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;rotation=89;" vertex="1" parent="1">
+          <mxGeometry x="422.21999999999997" y="1518.76" width="20" height="123.32" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-79" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="1548.76" as="sourcePoint" />
+            <mxPoint x="370" y="1518.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-80" value="visit_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1518.76" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-81" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="1548.76" as="sourcePoint" />
+            <mxPoint x="560" y="1518.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-82" value="检查时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="1548.76" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-84" value="7天" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="1600" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-88" value="入院24h" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1030" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-89" value="手术前" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1240" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-90" value="手术后" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1508.76" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-91" value="手术结束时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1488.76" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-92" value="检查时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1548.76" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-93" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="464" y="1385.5" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="k2YP_tW7FPzxwD-LAJ22-94" value="-7天~2天" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="1430" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
