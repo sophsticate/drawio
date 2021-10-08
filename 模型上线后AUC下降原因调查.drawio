@@ -1,1 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T08:35:59.310Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="mhjcVIMn910z7u4DqhDT" version="15.1.2" type="github"><diagram id="vRWlxBvc6YLdMRHW4F01" name="Page-1">7VjbjtowEP2aeWyVG4n9mIBpV9p2K6G99NEiXpIqYOQ1C/Trazt2QhpA2660oeo+4TkzY+xzxmMrEI6Xu0+CrosvPGcVBF6+g3ACQeBHQax+NLKvEeSAhShzG9QCs/Ins6Bn0U2Zs6dOoOS8kuW6C875asXmsoNRIfi2G/bIq+6/rumC9YDZnFZ99L7MZeF2kbT4Z1YuCvfPfoxrz5K6YLuTp4LmfHsAhQTCseBc1qPlbswqTZ7jpc6bnvA2CxNsJV+ScE+u5nfML26/5neC3lzdsOvHDyO7Nrl3G2a52r81uZAFX/AVrUiLZoJvVjnTs3rKamOuOV8r0FfgDybl3opJN5IrqJDLynrZrpQPB+PveqqPI2tNdnZmY+ydsZJi/3BoHGRps00zlsur96c3dZI2Cz3xjZizM1y58qNiweSZuKARV50KxpdMrUflCVZRWT5310FteS6auFZBNbAi/oGg8SCC/jvihEOKk7yLc1acaEhx0Ls4Z8XBrxTHpn7jpVph4NkXQnPR2/dBhL3uFPW6bNZvEjfL+HvV7YKfabWxWwASQ4og9YGMABNAGZAIMgQoBZJAlkI2NS4PEElvx86rwjBgDGjSK6RumWyLUrLZmhpVturZ1C0JuyAmJNudF7cvhk2Iupw2T5Bt+4LxHVYcvF5i77R8rzpbwRGWE0AYMqypzBTLviF3rPlVSKo4NQhSrn7bfGtCG2Yco8nQjIZHGB3p2sMjU5wZpJ5hNDKDGHDsyE4gJSZYFW1sXATcqbsgjsPBOY6OcIw0eakpTTXAiWkAISDPVnBb02NARhNV0Gl8EBNridBUD1AEeNrGXJoC/mhoBXy/R8r/cSnjF17Kvndc0bd5MuHeAZnMrt19SNxhmZg+lAEKbfFnpiGpXmX70FQ3p9alshJ9NOoWpW5UfSGrmEi79FURXtxJidDgJ8U70qyMEOoq1c0q0YQfYds+Xkwfuzieo+jteFZm+zGmfl62n7RC8gs=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-08T09:03:37.507Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="iqWvT3u-N1zR0QM0sKmV" version="15.1.2" type="github">
+  <diagram id="vRWlxBvc6YLdMRHW4F01" name="Page-1">
+    <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WEIcVe1hUNdVraOIOeLf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WEIcVe1hUNdVraOIOeLf-1" target="WEIcVe1hUNdVraOIOeLf-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEIcVe1hUNdVraOIOeLf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WEIcVe1hUNdVraOIOeLf-1" target="LXul9ZkQvoNGOTqwKBGp-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEIcVe1hUNdVraOIOeLf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WEIcVe1hUNdVraOIOeLf-1" target="WEIcVe1hUNdVraOIOeLf-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEIcVe1hUNdVraOIOeLf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WEIcVe1hUNdVraOIOeLf-1" target="WEIcVe1hUNdVraOIOeLf-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXul9ZkQvoNGOTqwKBGp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEIcVe1hUNdVraOIOeLf-1" target="LXul9ZkQvoNGOTqwKBGp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LXul9ZkQvoNGOTqwKBGp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WEIcVe1hUNdVraOIOeLf-1" target="WEIcVe1hUNdVraOIOeLf-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEIcVe1hUNdVraOIOeLf-1" value="模型上线后AUC下降" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WEIcVe1hUNdVraOIOeLf-2" value="特征缺失率情况分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WEIcVe1hUNdVraOIOeLf-4" value="1、计算AUC、特异度、敏感度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WEIcVe1hUNdVraOIOeLf-9" value="DSL与训练数据取数规则比较" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WEIcVe1hUNdVraOIOeLf-10" value="两种取数下AUC比较" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LXul9ZkQvoNGOTqwKBGp-1" value="数据是否有偏倚" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LXul9ZkQvoNGOTqwKBGp-3" value="2、训练样本纳排和模型上线纳排比较" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LXul9ZkQvoNGOTqwKBGp-9" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;AUC下降是否显著&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LXul9ZkQvoNGOTqwKBGp-10" value="&lt;font face=&quot;helvetica&quot;&gt;纳排是否有差异&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LXul9ZkQvoNGOTqwKBGp-11" value="&lt;font face=&quot;helvetica&quot;&gt;关键变量缺失情况&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="280" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LXul9ZkQvoNGOTqwKBGp-12" value="单因素方差分析" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LXul9ZkQvoNGOTqwKBGp-14" value="取数是否存在差异" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="490" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LXul9ZkQvoNGOTqwKBGp-15" value="不同取数下AUC" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="595" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
