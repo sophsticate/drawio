@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T09:04:09.215Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="O_ro_ndunxztojlt_as4" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T09:04:53.076Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="kytCSOi_ynDYpUuwgDVZ" version="15.1.2" type="github">
   <diagram id="vRWlxBvc6YLdMRHW4F01" name="Page-1">
     <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,19 +27,19 @@
         <mxCell id="WEIcVe1hUNdVraOIOeLf-1" value="模型上线后AUC下降" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WEIcVe1hUNdVraOIOeLf-2" value="特征缺失率情况分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WEIcVe1hUNdVraOIOeLf-2" value="3、特征缺失率情况分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WEIcVe1hUNdVraOIOeLf-4" value="1、计算AUC、特异度、敏感度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WEIcVe1hUNdVraOIOeLf-9" value="DSL与训练数据取数规则比较" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WEIcVe1hUNdVraOIOeLf-9" value="5、DSL与训练数据取数规则比较" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WEIcVe1hUNdVraOIOeLf-10" value="两种取数下AUC比较" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WEIcVe1hUNdVraOIOeLf-10" value="6、两种取数下AUC比较" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LXul9ZkQvoNGOTqwKBGp-1" value="数据是否有偏倚" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LXul9ZkQvoNGOTqwKBGp-1" value="4、数据是否有偏倚" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LXul9ZkQvoNGOTqwKBGp-3" value="2、训练样本纳排和模型上线纳排比较" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
