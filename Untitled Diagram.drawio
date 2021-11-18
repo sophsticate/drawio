@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-18T01:53:36.765Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="4tMGo_lxx2xjzyxNZ9p4" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-18T02:08:03.856Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="OgGAZ-nsjk5cvxy1hkK5" version="15.7.4" type="github">
   <diagram id="9PGFdiEvqBTwJTARn3xB" name="Page-1">
     <mxGraphModel dx="2253" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="980" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="460" y="925" />
+              <mxPoint x="460" y="855" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -150,22 +150,22 @@
           <mxGeometry x="400" y="1075" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rFfNKYTGEYVvxgkoe_vV-46" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Python Script&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="107.5" y="900" width="100" height="30" as="geometry" />
+          <mxGeometry x="570" y="910" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rFfNKYTGEYVvxgkoe_vV-47" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Python Script&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="117.5" y="910" width="100" height="30" as="geometry" />
+          <mxGeometry x="580" y="920" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rFfNKYTGEYVvxgkoe_vV-48" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Python Script&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="127.5" y="920" width="100" height="30" as="geometry" />
+          <mxGeometry x="590" y="930" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rFfNKYTGEYVvxgkoe_vV-53" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;R Script&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="97.5" y="1260" width="100" height="30" as="geometry" />
+          <mxGeometry x="630" y="1280" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rFfNKYTGEYVvxgkoe_vV-54" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;R Script&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="107.5" y="1270" width="100" height="30" as="geometry" />
+          <mxGeometry x="640" y="1290" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rFfNKYTGEYVvxgkoe_vV-55" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;R Script&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="117.5" y="1280" width="100" height="30" as="geometry" />
+          <mxGeometry x="650" y="1300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rFfNKYTGEYVvxgkoe_vV-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=11;" parent="1" source="rFfNKYTGEYVvxgkoe_vV-57" target="rFfNKYTGEYVvxgkoe_vV-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -174,7 +174,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rFfNKYTGEYVvxgkoe_vV-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;dashed=1;fillColor=none;glass=0;shadow=0;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="65" y="880" width="185" height="90" as="geometry" />
+          <mxGeometry x="32" y="750" width="250" height="210" as="geometry" />
         </mxCell>
         <mxCell id="rFfNKYTGEYVvxgkoe_vV-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="rFfNKYTGEYVvxgkoe_vV-58" target="rFfNKYTGEYVvxgkoe_vV-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -183,7 +183,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rFfNKYTGEYVvxgkoe_vV-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;dashed=1;fillColor=none;glass=0;shadow=0;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="64.5" y="1240" width="185" height="90" as="geometry" />
+          <mxGeometry x="28" y="1280" width="260" height="180" as="geometry" />
         </mxCell>
         <mxCell id="rFfNKYTGEYVvxgkoe_vV-65" value="data file" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;shadow=0;glass=0;sketch=0;fontSize=11;strokeWidth=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="95" y="1070" width="60" height="30" as="geometry" />
@@ -213,10 +213,10 @@
           <mxGeometry x="335" y="110" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ePix46XbY76KZNDnH9en-1" value="&lt;p class=&quot;Body&quot; style=&quot;margin: 0cm ; text-align: justify ; font-size: 10.5pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; border: none ; text-indent: 21pt&quot;&gt;&lt;span&gt;（&lt;span lang=&quot;EN-US&quot;&gt;1&lt;/span&gt;）现有的统计分析工具是相互独立。&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;Body&quot; style=&quot;margin: 0cm ; text-align: justify ; font-size: 10.5pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; border: none ; text-indent: 21pt&quot;&gt;&lt;span&gt;（&lt;span lang=&quot;EN-US&quot;&gt;2&lt;/span&gt;）对于复杂的统计分析任务，单个统计工具无法独立完成。&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;Body&quot; style=&quot;margin: 0cm ; text-align: justify ; font-size: 10.5pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; border: none ; text-indent: 21pt&quot;&gt;&lt;span&gt;（&lt;span lang=&quot;EN-US&quot;&gt;3&lt;/span&gt;）&lt;span lang=&quot;EN-US&quot;&gt;R&lt;/span&gt;是专业统计分析语言，但是在工程化和&lt;span lang=&quot;EN-US&quot;&gt;API&lt;/span&gt;构建方面略显不足。&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;Body&quot; style=&quot;margin: 0cm ; text-align: justify ; font-size: 10.5pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; border: none ; text-indent: 21pt&quot;&gt;&lt;span&gt;（&lt;span lang=&quot;EN-US&quot;&gt;4&lt;/span&gt;）&lt;span lang=&quot;EN-US&quot;&gt;Python&lt;/span&gt;是计算机工程语言且拥有强大的数据科学处理能力，但是在统计分析上较&lt;span lang=&quot;EN-US&quot;&gt;R&lt;/span&gt;不足。&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;Body&quot; style=&quot;margin: 0cm ; text-align: justify ; font-size: 10.5pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; border: none ; text-indent: 21pt&quot;&gt;&lt;span&gt;（&lt;span lang=&quot;EN-US&quot;&gt;5&lt;/span&gt;）需要同时掌握&lt;span lang=&quot;EN-US&quot;&gt;Python&lt;/span&gt;和&lt;span lang=&quot;EN-US&quot;&gt;R&lt;/span&gt;语言能力的专业人员才能使用。&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="65" y="1470" width="620" height="80" as="geometry" />
+          <mxGeometry x="-30" y="1830" width="620" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ePix46XbY76KZNDnH9en-2" value="R语言的劣势&lt;br&gt;&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , &amp;#34;system-ui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;对大文本（text data）处理极差... 或者说data management本就不是R的强项。&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , &amp;#34;system-ui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;内存管理和平行处理（parallel processing/programming）都为人诟病。&lt;/span&gt;&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , &amp;#34;system-ui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="1625" width="540" height="50" as="geometry" />
+          <mxGeometry x="-120" y="1935" width="540" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ePix46XbY76KZNDnH9en-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ePix46XbY76KZNDnH9en-4" target="rFfNKYTGEYVvxgkoe_vV-43">
           <mxGeometry relative="1" as="geometry" />
@@ -228,13 +228,28 @@
           <mxGeometry x="-190" y="1060" width="185" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ePix46XbY76KZNDnH9en-7" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Conversion between R object and Python object&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="1075" width="110" height="45" as="geometry" />
+          <mxGeometry x="-180" y="1070" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ePix46XbY76KZNDnH9en-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ePix46XbY76KZNDnH9en-5" target="rFfNKYTGEYVvxgkoe_vV-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="1260" as="sourcePoint" />
             <mxPoint x="480" y="1210" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ePix46XbY76KZNDnH9en-12" value="RAM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="1115" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ePix46XbY76KZNDnH9en-13" value="Data Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="770" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ePix46XbY76KZNDnH9en-14" value="Statistical Analysis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ePix46XbY76KZNDnH9en-15" value="Python&amp;nbsp;Interpreter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ePix46XbY76KZNDnH9en-17" value="R Interpreter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1420" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
