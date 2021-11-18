@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-18T03:42:18.989Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="r0HOw4m0hUYLQ605DrI6" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-18T03:58:20.573Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="szfQOLiYdyDELdRYRClg" version="15.7.4" type="github">
   <diagram id="9PGFdiEvqBTwJTARn3xB" name="Page-1">
     <mxGraphModel dx="2253" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,10 +195,10 @@
           <mxGeometry x="335" y="110" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ePix46XbY76KZNDnH9en-1" value="&lt;p class=&quot;Body&quot; style=&quot;margin: 0cm ; text-align: justify ; font-size: 10.5pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; border: none ; text-indent: 21pt&quot;&gt;&lt;span&gt;（&lt;span lang=&quot;EN-US&quot;&gt;1&lt;/span&gt;）现有的统计分析工具是相互独立。&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;Body&quot; style=&quot;margin: 0cm ; text-align: justify ; font-size: 10.5pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; border: none ; text-indent: 21pt&quot;&gt;&lt;span&gt;（&lt;span lang=&quot;EN-US&quot;&gt;2&lt;/span&gt;）对于复杂的统计分析任务，单个统计工具无法独立完成。&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;Body&quot; style=&quot;margin: 0cm ; text-align: justify ; font-size: 10.5pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; border: none ; text-indent: 21pt&quot;&gt;&lt;span&gt;（&lt;span lang=&quot;EN-US&quot;&gt;3&lt;/span&gt;）&lt;span lang=&quot;EN-US&quot;&gt;R&lt;/span&gt;是专业统计分析语言，但是在工程化和&lt;span lang=&quot;EN-US&quot;&gt;API&lt;/span&gt;构建方面略显不足。&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;Body&quot; style=&quot;margin: 0cm ; text-align: justify ; font-size: 10.5pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; border: none ; text-indent: 21pt&quot;&gt;&lt;span&gt;（&lt;span lang=&quot;EN-US&quot;&gt;4&lt;/span&gt;）&lt;span lang=&quot;EN-US&quot;&gt;Python&lt;/span&gt;是计算机工程语言且拥有强大的数据科学处理能力，但是在统计分析上较&lt;span lang=&quot;EN-US&quot;&gt;R&lt;/span&gt;不足。&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;Body&quot; style=&quot;margin: 0cm ; text-align: justify ; font-size: 10.5pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; border: none ; text-indent: 21pt&quot;&gt;&lt;span&gt;（&lt;span lang=&quot;EN-US&quot;&gt;5&lt;/span&gt;）需要同时掌握&lt;span lang=&quot;EN-US&quot;&gt;Python&lt;/span&gt;和&lt;span lang=&quot;EN-US&quot;&gt;R&lt;/span&gt;语言能力的专业人员才能使用。&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="1830" width="620" height="80" as="geometry" />
+          <mxGeometry x="-17.5" y="2170" width="620" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ePix46XbY76KZNDnH9en-2" value="R语言的劣势&lt;br&gt;&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , &amp;#34;system-ui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;对大文本（text data）处理极差... 或者说data management本就不是R的强项。&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , &amp;#34;system-ui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;内存管理和平行处理（parallel processing/programming）都为人诟病。&lt;/span&gt;&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , &amp;#34;system-ui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="1935" width="540" height="50" as="geometry" />
+          <mxGeometry x="-107.5" y="2275" width="540" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ePix46XbY76KZNDnH9en-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ePix46XbY76KZNDnH9en-4" target="rFfNKYTGEYVvxgkoe_vV-43">
           <mxGeometry relative="1" as="geometry" />
@@ -247,6 +247,48 @@
         </mxCell>
         <mxCell id="ePix46XbY76KZNDnH9en-22" value="Modeling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="1410" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ePix46XbY76KZNDnH9en-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ePix46XbY76KZNDnH9en-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="1730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="374" y="1730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ePix46XbY76KZNDnH9en-26" value="request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ePix46XbY76KZNDnH9en-25">
+          <mxGeometry x="-0.1506" y="4" relative="1" as="geometry">
+            <mxPoint x="15" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ePix46XbY76KZNDnH9en-23" value="Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="1720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ePix46XbY76KZNDnH9en-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ePix46XbY76KZNDnH9en-24" target="ePix46XbY76KZNDnH9en-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="1750" />
+              <mxPoint x="310" y="1750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ePix46XbY76KZNDnH9en-24" value="Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ePix46XbY76KZNDnH9en-30" value="response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="230" y="1760" as="geometry" />
+        </mxCell>
+        <mxCell id="ePix46XbY76KZNDnH9en-31" value="request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="1630" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ePix46XbY76KZNDnH9en-32" value="task management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="1710" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ePix46XbY76KZNDnH9en-33" value="Python&lt;br&gt;Interpreter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1800" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ePix46XbY76KZNDnH9en-34" value="R&lt;br&gt;Interpreter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1800" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
